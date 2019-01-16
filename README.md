@@ -4,7 +4,7 @@
 ------------
 
 
-Source sketch file for miniAPP PhoneStory UI design.
+Source sketch file for mini APP PhoneStory UI design.
 
 ------------
 thx for developer [@Gesangs](https://github.com/Gesangs "@Gesangs")
